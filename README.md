@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá
 
-<!--
-**FoxznnBNT/FoxznnBNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Biografia
 
-Here are some ideas to get you started:
+Novo no mundo neste universo incrivel da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Statisticas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxznnbnt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxznnbnt&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foxznnbnt&theme=dark&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
