@@ -12,4 +12,4 @@ Novo no mundo neste universo incrivel da programação.
 
 # Projetos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foxznnbnt&theme=dark&repo=devweekgit.github.io)(https://github.com/FoxznnBNT/foxz.devweekgit.github.io.git)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=foxznnbnt&theme=dark&repo=devweekgit.github.io)
